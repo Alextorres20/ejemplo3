@@ -1,2 +1,3 @@
 hola mi primera prueba en git
 estoy añadiendo lineas para cambiarlo.
+soy una linea editada de github
